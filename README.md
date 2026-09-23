@@ -149,7 +149,7 @@ python-docx>=0.8.11
 ### 4. Run the Scraper
 
 ```bash
-python scraper.py
+python main.py
 ```
 
 Generated Word documents will be saved in the configured output directory, such as:
